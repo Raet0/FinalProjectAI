@@ -1,0 +1,31 @@
+﻿ID;Nombre;Edad;Dolor (0-10);Dificultad para respirar;Dolor en el pecho;Sangrado activo;Desmayo;Convulsiones;Embarazo;Enfermedades crónicas;Tiempo de evolución;Nivel de Prioridad (Salida);;Tiempo de Evolución;< 1 Hora
+1;Ana López;24;3;No;No;No;No;No;Sí;No;< 1 hora;Nivel 4 - Menos urgente;;;1 - 6 Horas
+2;Carlos Pérez;67;9;Sí;Sí;No;No;No;No aplica;Sí;< 1 hora;Nivel 2 - Emergencia;;;6 - 24 Horas
+3;María Gómez;45;8;No;Sí;No;No;No;No;Sí;1–6 horas;Nivel 2 - Emergencia;;;> 24 Horas
+4;José Ramírez;38;4;No;No;Sí;No;No;No aplica;No;< 1 hora;Nivel 3 - Urgente;;;
+5;Laura Torres;30;7;Sí;No;No;No;No;No;No;1–6 horas;Nivel 3 - Urgente;;Embarazo;Sí 
+6;Miguel Herrera;72;6;Sí;Sí;No;Sí;No;No aplica;Sí;< 1 hora;Nivel 1 - Resucitación;;;No
+7;Daniela Cruz;19;5;No;No;No;No;Sí;No;No;< 1 hora;Nivel 2 - Emergencia;;;No Aplica
+8;Andrés Vargas;54;2;No;No;No;No;No;No aplica;Sí;> 24 horas;Nivel 5 - No urgente;;;
+9;Sofía Mendoza;28;6;No;No;Sí;No;No;Sí;No;< 1 hora;Nivel 3 - Urgente;;;
+10;Luis Castillo;61;10;Sí;Sí;No;Sí;No;No aplica;Sí;< 1 hora;Nivel 1 - Resucitación;;;
+11;Camila Flores;35;4;No;No;No;No;No;No;No;6–24 horas;Nivel 4 - Menos urgente;;;
+12;Diego Morales;50;7;Sí;No;No;No;No;No aplica;Sí;1–6 horas;Nivel 3 - Urgente;;;
+13;Valeria Ruiz;27;8;No;No;Sí;No;No;No;No;< 1 hora;Nivel 3 - Urgente;;;
+14;Jorge Silva;82;5;Sí;Sí;No;No;No;No aplica;Sí;1–6 horas;Nivel 2 - Emergencia;;;
+15;Paula Romero;41;2;No;No;No;No;No;No;Sí;> 24 horas;Nivel 5 - No urgente;;;
+16;Fernando Díaz;33;9;Sí;No;Sí;No;No;No aplica;No;< 1 hora;Nivel 2 - Emergencia;;;
+17;Natalia Vega;26;6;No;No;No;Sí;No;Sí;No;< 1 hora;Nivel 2 - Emergencia;;;
+18;Ricardo Núñez;58;8;Sí;Sí;No;No;No;No aplica;Sí;1–6 horas;Nivel 2 - Emergencia;;;
+19;Gabriela Ortiz;22;3;No;No;No;No;No;No;No;6–24 horas;Nivel 5 - No urgente;;;
+20;Pedro León;64;9;Sí;Sí;No;Sí;No;No aplica;Sí;< 1 hora;Nivel 1 - Resucitación;;;
+21;Isabel Guerrero;47;5;No;No;No;No;No;No;Sí;1–6 horas;Nivel 4 - Menos urgente;;;
+22;Juan Medina;37;6;No;No;Sí;No;No;No aplica;No;< 1 hora;Nivel 3 - Urgente;;;
+23;Karla Herrera;29;7;Sí;No;No;No;No;Sí;No;1–6 horas;Nivel 3 - Urgente;;;
+24;Sergio Navarro;70;8;Sí;Sí;No;No;No;No aplica;Sí;< 1 hora;Nivel 2 - Emergencia;;;
+25;Andrea Molina;31;4;No;No;No;No;No;No;No;6–24 horas;Nivel 4 - Menos urgente;;;
+26;Óscar Paredes;55;9;Sí;Sí;Sí;No;No;No aplica;Sí;< 1 hora;Nivel 1 - Resucitación;;;
+27;Viviana Salazar;23;5;No;No;No;No;Sí;No;No;< 1 hora;Nivel 2 - Emergencia;;;
+28;Roberto Aguilar;48;7;No;Sí;No;No;No;No aplica;Sí;1–6 horas;Nivel 2 - Emergencia;;;
+29;Fernanda Castro;34;6;No;No;No;No;No;Sí;No;6–24 horas;Nivel 4 - Menos urgente;;;
+30;Héctor Zambrano;76;10;Sí;Sí;No;Sí;No;No aplica;Sí;< 1 hora;Nivel 1 - Resucitación;;;
